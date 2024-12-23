@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![a picture of a person engaged in education](/images/image.png){: .align-right width="200px" style="border-radius: 10px;}
+![a picture of a person engaged in education](/images/image.png){: .align-right width="200px" style="border-radius: 10px; margin-top: 20px;"}
 
 Hi, my name is Tamerlan! I am a Software Developer with experience in mobile development and a passion for creating impactful applications. I am from the vibrant city of Almaty, Kazakhstan 🇰🇿.
 
