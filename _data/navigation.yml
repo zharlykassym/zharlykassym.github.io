@@ -5,11 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Resume"
-    url: /files/resume.pdf
+  - title: "Resume ENG"
+    url: /files/resume_eng_24122024.pdf
 
-  - title: "Резюме"
-    url: /files/resume_ru.pdf
+  - title: "Resume RU"
+    url: /files/resume_ru_24122024.pdf
        
  #  - title: "Publications"
  #    url: /publications/
