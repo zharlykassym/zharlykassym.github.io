@@ -5,10 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Resume ENG"
-    url: /files/resume_tamerlan_eng_17012025.pdf
+ # - title: "Resume ENG"
+ #   url: /files/resume_tamerlan_eng_17012025.pdf
 
-  - title: "Resume RU"
+  - title: "Resume"
     url: /files/resume_tamerlan_zharlykassym_junior_android_developer.pdf
        
  #  - title: "Publications"
